@@ -3,6 +3,8 @@ import pickle
 import streamlit as st
 import numpy as np
 
+# Browser header title
+st.set_page_config(page_title='Iris Project - Utkarsh')
 # Title of the project
 st.title("Iris Project - Utkarsh Gaikwad")
 
